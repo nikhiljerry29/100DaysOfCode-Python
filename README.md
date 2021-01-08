@@ -1,6 +1,6 @@
 # 100DaysOfCode-Python
 
-This work is composed of my learning path with Udemy Course organised by App Brewery Inc. 
+This work is composed of my learning path with Udemy Course organised by App Brewery Inc. I started my journey on 4th of January as my New Year Resolution.
 The [Resources](Resources) folder consist of cheatsheet of python. 
 
 The only goal for taking this challenge is too explore every aspect of this beautiful programming language.
@@ -18,3 +18,8 @@ The only goal for taking this challenge is too explore every aspect of this beau
 * Working with control flow, logical operators and scope
 * Calculate your [BMI](Day3/bmi2.py) with their interpretation of the BMI value.
 * Creating project - [Treasure Island](Day3/treasureIsland.py)
+
+## [Day 4](Day4)
+* Understanding the randomazition and importing module concept.
+* Working with list and nested list.
+* Creating [Rock, Paper & Scissor Game](Day4/rockPaperScissor.py), [Virtual Coin Toss](Day4/headsOrTails.py)
