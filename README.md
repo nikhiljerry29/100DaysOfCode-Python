@@ -23,3 +23,7 @@ The only goal for taking this challenge is too explore every aspect of this beau
 * Understanding the randomazition and importing module concept.
 * Working with list and nested list.
 * Creating [Rock, Paper & Scissor Game](Day4/rockPaperScissor.py), [Virtual Coin Toss](Day4/headsOrTails.py)
+
+## [Day 5](Day5)
+* Understanding the concepts of loops and range.
+* Creating our own [Password Generator.](Dya5/passwordGenerator.py)
