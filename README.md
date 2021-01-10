@@ -26,4 +26,11 @@ The only goal for taking this challenge is too explore every aspect of this beau
 
 ## [Day 5](Day5)
 * Understanding the concepts of loops and range.
-* Creating our own [Password Generator.](Dya5/passwordGenerator.py)
+* Creating our own [Password Generator.](Day5/passwordGenerator.py)
+
+## [Day 6](Day6)
+* Understanding the definitio of functions
+* Working on [Reeborg's World Maze Challenge](https://reeborg.ca/index_en.html).
+
+## [Day 7](Day7)
+* Creating [Hangman](Day7/hangman.py) Game.
