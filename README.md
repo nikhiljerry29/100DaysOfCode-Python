@@ -32,5 +32,5 @@ The only goal for taking this challenge is too explore every aspect of this beau
 * Understanding the definitio of functions
 * Working on [Reeborg's World Maze Challenge](https://reeborg.ca/index_en.html).
 
-## [Day 7](Day7){:target="_blank"}
-* Creating [Hangman](Day7/hangman.py) Game.
+## [Day 7](Day7)
+* Creating [Hangman](Day7/Hangman) Game - [Driver File](Day7/Hangman/hangman.py).
