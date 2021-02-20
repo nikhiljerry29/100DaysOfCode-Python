@@ -5,8 +5,11 @@ The [Resources](Resources) folder consist of cheatsheet of python.
 
 The only goal for taking this challenge is too explore every aspect of this beautiful programming language.
 
+Refer to this [Cheatsheet](https://www.notion.so/nikhil29/Python-e2f64e37af5d441388b8e19117a71c3c) and comment for any changes.
+
 ## [Day 1](Day1)
 * Working with variables, printing, debugging, and string maipulation.
+* For debugging best lightweight free IDE is [Thonny](https://thonny.org/).
 * Creating project - [Band Name Generator](Day1/bandNameGenerator.py).
 	Simply gives the name for your Band....
 
@@ -29,8 +32,13 @@ The only goal for taking this challenge is too explore every aspect of this beau
 * Creating our own [Password Generator.](Day5/passwordGenerator.py)
 
 ## [Day 6](Day6)
-* Understanding the definitio of functions
+* Understanding the definition of functions
 * Working on [Reeborg's World Maze Challenge](https://reeborg.ca/index_en.html).
 
 ## [Day 7](Day7)
 * Creating [Hangman](Day7/Hangman) Game - [Driver File](Day7/Hangman/hangman.py).
+
+## [Day 8](Day8)
+* Understanding the concepts of functions with arguments and parameters.
+* Prime Number Checker
+* Creating [Caesar Cipher](Day8/caesarCipher.py).
